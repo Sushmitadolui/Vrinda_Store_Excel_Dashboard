@@ -49,5 +49,5 @@ Created several pivot tables and charts for analysis:
 
 ## Visuals
 Here are some visuals to support the analysis:
+<p> <img src="https://drive.google.com/file/d/13nD6gYQ4CBhVA1LwEqfS4SSYfCZoVSCr/view?usp=sharing" alt="Dashboard" /> </p>
 
-- [Link to Visual 1](https://drive.google.com/file/d/13nD6gYQ4CBhVA1LwEqfS4SSYfCZoVSCr/view?usp=sharing)
